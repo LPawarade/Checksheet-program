@@ -67,15 +67,9 @@ If a process is missing data, a red button or yellow will be  appear. Clicking t
 ---
 
 ## 🖧 Flow diagram
-![Database Flow](images/Flowdiagram.png)
+![Database Flow](images/FlowDiagram.png)
 
----
----
----
----
----
----
----
+---
 
 ## ✨ Key Features
 
